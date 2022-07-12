@@ -54,6 +54,7 @@ public class FlowLimitController {
 
     public String deal_testHotkey (String p1, String p2, BlockException blockException){
         log.info("deal_testHotkey");
+        log.info("deal_testHotkey1111111111");
         return "--------------deal_testHotkey,o(╥﹏╥)o";
     }
 }
