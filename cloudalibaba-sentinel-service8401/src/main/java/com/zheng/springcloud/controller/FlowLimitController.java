@@ -56,6 +56,7 @@ public class FlowLimitController {
         log.info("deal_testHotkey");
         log.info("deal_testHotkey1111111111");
         log.info("deal_testHotkey_master");
+        log.info("deal_testHotkey——host-fix3");
         return "--------------deal_testHotkey,o(╥﹏╥)o";
     }
 }
